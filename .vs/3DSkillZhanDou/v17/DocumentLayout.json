@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UnityProject\\3DSkillZhanDou\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UnityProject\\3DSkillZhanDou\\Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\monster\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\istate\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\istate\\idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\skill\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\skill\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\skillwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\skillwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\streamingassets\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\streamingassets\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\skill\\aoeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\aoeskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\save.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\istate\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\istate\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\paowuxianzidan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\paowuxianzidan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\exitwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\exitwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\zhengshi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\zhengshi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\obj\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\obj\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\istate\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\istate\\die.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\istate\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\istate\\hit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\xuanlian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\xuanlian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\knapsackwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\knapsackwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\functionalwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\functionalwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\settingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\settingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\wordhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\wordhpui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\levelwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\levelwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\windowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\windowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\startwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\view\\hintwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\view\\hintwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\bgaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bgaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\obj\\zhangaiwumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\obj\\zhangaiwumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\fsmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\fsmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\skill\\zhuoshaoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\zhuoshaoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\monster\\monsteridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster\\monsteridle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\roledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\skill\\ziliaoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\ziliaoskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\ui\\worlduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\worlduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\monster\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\istate\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\istate\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\player\\fsm\\fsmdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\fsm\\fsmdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|F:\\UnityProject\\3DSkillZhanDou\\assets\\script\\obj\\zhangaiwu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2228FC97-24E3-3CF9-33DD-B8D287F16D64}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\obj\\zhangaiwu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UnityProject\\3DSkillZhanDou\\assets\\epic toon fx\\demo\\scripts\\etfxprojectilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\epic toon fx\\demo\\scripts\\etfxprojectilescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\UnityProject\\3DSkillZhanDou\\assets\\epic toon fx\\demo\\scripts\\etfxfireprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\epic toon fx\\demo\\scripts\\etfxfireprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "csShowAllEffect.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs",
+              "RelativeToolTip": "Assets\\\u7C92\u5B50\u7279\u6548\\Script\\csShowAllEffect.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:58:58.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SkillWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\SkillWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\SkillWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\SkillWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\SkillWindow.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAABYwE0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:51:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\MainWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\MainWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\MainWindow.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAvwHQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T04:09:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "XuanLian.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\XuanLian.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\XuanLian.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\XuanLian.cs",
+              "RelativeToolTip": "Assets\\Script\\XuanLian.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:02:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.txt",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\StreamingAssets\\Config.txt",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\Config.txt",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\StreamingAssets\\Config.txt",
+              "RelativeToolTip": "Assets\\StreamingAssets\\Config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T14:53:30.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\IState\\Attack.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Attack.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\IState\\Attack.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAvwFAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:40:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\Bullet.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:33:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Idle.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Idle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\IState\\Idle.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Idle.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\IState\\Idle.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAewCgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:50:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Monster\\Boss.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\Boss.cs",
+              "RelativeToolTip": "Assets\\Script\\Monster\\Boss.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwJUAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:22:18.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAABYwHEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:05:19.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KnapsackWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\KnapsackWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\KnapsackWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\KnapsackWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\KnapsackWindow.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAvwBUBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:10:09.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ZhengShi.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\ZhengShi.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ZhengShi.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\ZhengShi.cs",
+              "RelativeToolTip": "Assets\\Script\\ZhengShi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:05:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\Creature.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Creature.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\Creature.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Creature.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:49:02.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\Skill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\Skill.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\Skill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\Skill.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:32:27.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExitWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\ExitWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\ExitWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\ExitWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\ExitWindow.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:07:35.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\Gold.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Obj\\Gold.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\Gold.cs",
+              "RelativeToolTip": "Assets\\Script\\Obj\\Gold.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:22:29.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaoWuXianZiDan.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\PaoWuXianZiDan.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PaoWuXianZiDan.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\PaoWuXianZiDan.cs",
+              "RelativeToolTip": "Assets\\Script\\PaoWuXianZiDan.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:32:26.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AOESkill.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\AOESkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\AOESkill.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\AOESkill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\AOESkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:06:25.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Save.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Save.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Save.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Save.cs",
+              "RelativeToolTip": "Assets\\Script\\Save.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAWwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:22:23.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Die.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Die.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\IState\\Die.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Die.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\IState\\Die.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:29:43.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hit.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Hit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\IState\\Hit.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Hit.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\IState\\Hit.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:43:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FunctionalWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\FunctionalWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\FunctionalWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\FunctionalWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\FunctionalWindow.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:29:36.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SettingWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\SettingWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\SettingWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\SettingWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\SettingWindow.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:37:19.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WordHpUI.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WordHpUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\WordHpUI.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WordHpUI.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\WordHpUI.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwDQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:26:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LevelWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\LevelWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\LevelWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\LevelWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\LevelWindow.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:18:25.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WindowManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WindowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\WindowManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WindowManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\WindowManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:28:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StartWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\StartWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\StartWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\StartWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\StartWindow.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:55:30.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HintWindow.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\HintWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\View\\HintWindow.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\View\\HintWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\View\\HintWindow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:18:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:19:18.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BgAudio.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\BgAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BgAudio.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\BgAudio.cs",
+              "RelativeToolTip": "Assets\\Script\\BgAudio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:37:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\AudioManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:46:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FSMManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\FSMManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\FSMManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\FSMManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\FSMManager.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:13:03.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ZhangAiWuManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\ZhangAiWuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Obj\\ZhangAiWuManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\ZhangAiWuManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Obj\\ZhangAiWuManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:10:09.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:44:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\SkillData.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\SkillData.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\SkillData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:55:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ZhuoShaoSkill.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\ZhuoShaoSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\ZhuoShaoSkill.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\ZhuoShaoSkill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\ZhuoShaoSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:59:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MonsterIdle.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\MonsterIdle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Monster\\MonsterIdle.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\MonsterIdle.cs",
+              "RelativeToolTip": "Assets\\Script\\Monster\\MonsterIdle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:17:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ZiLiaoSkill.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\ZiLiaoSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\ZiLiaoSkill.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Skill\\ZiLiaoSkill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\ZiLiaoSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:52:01.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Config\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Config\\ConfigManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Config\\ConfigManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Config\\ConfigManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:21:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleData.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\RoleData.cs",
+              "RelativeDocumentMoniker": "Assets\\RoleData.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\RoleData.cs",
+              "RelativeToolTip": "Assets\\RoleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:55:10.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WorldUIManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WorldUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\WorldUIManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\UI\\WorldUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\WorldUIManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:26:46.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ETFXProjectileScript.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXProjectileScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXProjectileScript.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXProjectileScript.cs",
+              "RelativeToolTip": "Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXProjectileScript.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:02:14.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MonsterManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\MonsterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Monster\\MonsterManager.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Monster\\MonsterManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Monster\\MonsterManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:24:32.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ETFXFireProjectile.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXFireProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXFireProjectile.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXFireProjectile.cs",
+              "RelativeToolTip": "Assets\\Epic Toon FX\\Demo\\Scripts\\ETFXFireProjectile.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwDcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:00:45.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Run.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Run.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\IState\\Run.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\IState\\Run.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\IState\\Run.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:49:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FSMData.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\FSMData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\FSM\\FSMData.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Player\\FSM\\FSMData.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\FSM\\FSMData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:48:31.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SceneLoader.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\scripts\\SceneLoader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:15:17.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ZhangAiWu.cs",
+              "DocumentMoniker": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\ZhangAiWu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Obj\\ZhangAiWu.cs",
+              "ToolTip": "F:\\UnityProject\\3DSkillZhanDou\\Assets\\Script\\Obj\\ZhangAiWu.cs",
+              "RelativeToolTip": "Assets\\Script\\Obj\\ZhangAiWu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:08:00.516Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
